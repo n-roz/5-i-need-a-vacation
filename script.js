@@ -13,3 +13,10 @@ $(document).ready(function() {
     
     function trackTime() {
         var currentTime =  moment().hour();
+
+        $(".time-block").each(function()   {
+            var timeBlock = parseInt($(this).attr("id").split("-")[1]);
+            console.log(timeBlock, currentTime)
+            if (timeBlock < currentTime) {
+                $(this).addClass("past");
+            }
