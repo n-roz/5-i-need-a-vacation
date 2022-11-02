@@ -4,7 +4,7 @@ HTML, CSS, & jQuery
 
 A simple calendar application that allows a user to save events for each hour of the workday.
 
-<a href="url">View my project here.</a>
+<a href="https://n-roz.github.io/workday-scheduler3/">View my project here.</a>
 
 ## User Story
 - AS AN employee with a busy schedule
