@@ -26,4 +26,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page 
 THEN the saved events persist
 
-<img Screen Shot 2022-11-02 at 9.11.50 AM.png>
+## Challenges
+One challenge I had with this project was linking the project to GitHub. I worked with a tutor for an hour, we couldn't fix it, then I made a new repository and the problem was fixed in two minutes.
+
+## Mock Up
+<img src="Screen Shot 2022-11-02 at 9.11.50 AM.png">
