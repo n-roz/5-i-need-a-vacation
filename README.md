@@ -29,5 +29,7 @@ A simple calendar application that allows a user to save events for each hour of
 ## Challenges
 One challenge I had with this project was linking the project to GitHub. I worked with a tutor for an hour, we couldn't fix it, then I made a new repository and the problem was fixed in two minutes.
 
+I also struggled with finding out the right format to set this project up. I tried a few different ways until I decided to use individual timeblocks in the HTML.
+
 ## Mock Up
 <img src="Screen Shot 2022-11-02 at 9.11.50 AM.png">
