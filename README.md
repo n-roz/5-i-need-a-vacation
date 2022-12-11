@@ -6,6 +6,8 @@ A simple calendar application that allows a user to save events for each hour of
 
 <a href="https://n-roz.github.io/workday-scheduler3/">View my project here.</a>
 
+Starter code [here](https://github.com/coding-boot-camp/super-disco).
+
 ## User Story
 - AS AN employee with a busy schedule
 - I WANT to add important events to a daily planner 
