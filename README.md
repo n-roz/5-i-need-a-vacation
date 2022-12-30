@@ -4,7 +4,7 @@ HTML, CSS, & jQuery
 
 "A simple calendar application that allows a user to save events for each hour of the workday."
 
-View my project <a href="https://n-roz.github.io/workday-scheduler3/">here.</a>
+View my project <a href="https://n-roz.github.io/5-i-need-a-vacation/">here.</a>
 
 Starter code [here](https://github.com/coding-boot-camp/super-disco).
 
